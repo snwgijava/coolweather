@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" ?>
 <litepal>
     <dbname value="cool_weather"/>
     <version value="1"/>
@@ -6,6 +5,6 @@
     <list>
         <mapping class="android.coolweather.com.coolweather.db.Province"/>
         <mapping class="android.coolweather.com.coolweather.db.City"/>
-        <mapping class="android.coolweather.com.coolweather.db.County"
+        <mapping class="android.coolweather.com.coolweather.db.County"/>
     </list>
 </litepal>
